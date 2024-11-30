@@ -1,0 +1,1 @@
+pandoc main.ipynb --pdf-engine=xelatex -V mainfont="Times New Roman" -V documentclass="article" -o "Верхотуров_ВС_Информационная_безопасность_интеллектуальных_систем.pdf"
